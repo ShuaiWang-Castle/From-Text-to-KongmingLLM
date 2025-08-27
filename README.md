@@ -3,3 +3,4 @@ I've been working on a project to create "kongmingLLM," a large language model w
 
 我通过调用api将分块后的三国演义文本中的对话提取出来并得到孔明的对话串用于训练具有诸葛孔明人格的kongmingLLM。遗憾的是我当前的语料太小，不支持微调出特别完善的模型。
 
+![image](https://github.com/ShuaiWang-Castle/Pics/blob/main/914ace26d4c5ce503b6e5be9a966759c.jpeg)
